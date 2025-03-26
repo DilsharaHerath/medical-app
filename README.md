@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # oasis2
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# medical-app
+>>>>>>> ddb1d3137127d3686b0f32922d0013dc88a9180f
